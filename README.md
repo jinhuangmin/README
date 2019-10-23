@@ -36,6 +36,8 @@
 ## 超链接
 
 [仿易公司](https://jinhuangmin.github.io/yifirm/)
+<br/>
+
 [仿QQ阅读](https://jinhuangmin.github.io/qqreadbook/)
 
 ## 列表
@@ -52,16 +54,11 @@
 内容|内容|内容
 
 ## 代码
-- 控制台输出 READEM
-`console.log("READEM")`
 
-## 流程图
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
+`代码内容`
+
+(```)
+  代码...
+  代码...
+  代码...
+(```)
