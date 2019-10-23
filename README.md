@@ -12,8 +12,11 @@
 ## 字体
 
 **这是加粗的文字**
+<br/>
 *这是倾斜的文字*`
+<br/>
 ***这是斜体加粗的文字***
+<br/>
 ~~这是加删除线的文字~~
 
 ## 引用
@@ -32,8 +35,8 @@
 
 ## 超链接
 
-[模易公司](https://jinhuangmin.github.io/yifirm/)
-[模 QQ阅读](https://jinhuangmin.github.io/qqreadbook/)
+[仿易公司](https://jinhuangmin.github.io/yifirm/)
+[仿QQ阅读](https://jinhuangmin.github.io/qqreadbook/)
 
 ## 列表
 
