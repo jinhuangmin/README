@@ -31,7 +31,7 @@
 *****
 
 ## 图片
-![路飞](./images/timg.jpg "路费")
+[路飞](./images/timg.jpg "悬停显示")
 
 ## 超链接
 
@@ -58,7 +58,11 @@
 `代码内容`
 
 (```)
-  代码...
-  代码...
-  代码...
+document.addEventListener('scroll',
+		function(){
+      var scrollTop=document.body.scrollTop||document.documentElement.scrollTop;
+			document.getElementById("box")
+					.style.bottom=scrollTop>600?"50px":"1000px";
+			}
+		);
 (```)
