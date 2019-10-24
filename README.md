@@ -52,17 +52,3 @@
 ---|:--:|---:
 内容|内容|内容
 内容|内容|内容
-
-## 代码
-
-`代码内容`
-
-(```)
-document.addEventListener('scroll',
-		function(){
-      var scrollTop=document.body.scrollTop||document.documentElement.scrollTop;
-			document.getElementById("box")
-					.style.bottom=scrollTop>600?"50px":"1000px";
-			}
-		);
-(```)
