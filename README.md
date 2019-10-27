@@ -76,11 +76,11 @@
 内容|内容|内容
 
 ## 代码效果
-`\`\`\`语言
+\`\`\`语言
 <br/>
 代码
 <br/>
-\`\`\``
+\`\`\`
 
 ```Java
 public static void main(String[]args){} //Java
