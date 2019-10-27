@@ -76,23 +76,11 @@
 内容|内容|内容
 
 ## 代码效果
-(```)
-```Java
-public static void main(String[]args){} //Java
+`
+```语言
+代码
 ```
-```c
-int main(int argc, char *argv[]) //C
-```
-```Bash
-echo "hello GitHub" #Bash
-```
-```javascript
-document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
-```
-```cpp
-string &operator+(const string& A,const string& B) //cpp
-```
-(```)
+`
 
 ```Java
 public static void main(String[]args){} //Java
