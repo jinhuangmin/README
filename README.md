@@ -52,19 +52,23 @@
 [仿QQ阅读](https://jinhuangmin.github.io/qqreadbook/)
 
 ## 列表
+
 `- 列表内容`
 - 列表内容
+
 `+ 列表内容`
 + 列表内容
+
 `* 列表内容`
 * 列表内容
 
 ## 表格
-`表头|表头|表头
+```
+表头|表头|表头
 ---|:--:|---:
 内容|内容|内容
 内容|内容|内容
-`
+```
 
 表头|表头|表头
 ---|:--:|---:
@@ -72,7 +76,7 @@
 内容|内容|内容
 
 ## 代码效果
-`
+(```)
 ```Java
 public static void main(String[]args){} //Java
 ```
@@ -88,7 +92,7 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 ```cpp
 string &operator+(const string& A,const string& B) //cpp
 ```
-`
+(```)
 
 ```Java
 public static void main(String[]args){} //Java
