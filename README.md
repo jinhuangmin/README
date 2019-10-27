@@ -17,14 +17,19 @@
 
 ## 字体
 
+`**这是加粗的文字**`
 **这是加粗的文字**
 <br/>
+
 `*这是倾斜的文字*`
 *这是倾斜的文字*
+
 <br/>
+
 `***这是斜体加粗的文字***`
 ***这是斜体加粗的文字***
 <br/>
+
 `~~这是加删除线的文字~~`
 ~~这是加删除线的文字~~
 
@@ -96,6 +101,16 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 ```
 ```cpp
 string &operator+(const string& A,const string& B) //cpp
+```
+
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
 ```
 
 ## 表情
